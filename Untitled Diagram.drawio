@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T15:56:25.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="GITIlVvf7U2ejFxBZt9D" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T16:24:09.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9XmK5nVv-566ooOYItRO" version="16.6.4" type="github">
   <diagram name="Page-1" id="fc2ac565-0d4e-3f0d-88b0-a54af1634ed7">
-    <mxGraphModel dx="1080" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/11/Grafico-Boi-PNG.png&quot;,&quot;width&quot;:&quot;800&quot;,&quot;height&quot;:&quot;904&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" backgroundImage="{&quot;src&quot;:&quot;https://cdn-0.imagensemoldes.com.br/wp-content/uploads/2020/11/Grafico-Boi-PNG.png&quot;,&quot;width&quot;:&quot;800&quot;,&quot;height&quot;:&quot;904&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -97,13 +97,13 @@
         <mxCell id="2" value="&lt;pre&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;TIPOS DE BOIVINOS NO BRASIL&lt;/b&gt;&lt;/font&gt;&lt;/pre&gt;" style="strokeWidth=1;fontStyle=0;html=1;rounded=0;backgroundOutline=0;comic=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="421" y="494" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k-wPxzq8uyt49FvIkgI0-135" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="k-wPxzq8uyt49FvIkgI0-135" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="1443" y="554" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k-wPxzq8uyt49FvIkgI0-136" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="k-wPxzq8uyt49FvIkgI0-136" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="1231" y="574" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k-wPxzq8uyt49FvIkgI0-137" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="k-wPxzq8uyt49FvIkgI0-137" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;align=center;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="1511" y="614" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
